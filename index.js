@@ -14,3 +14,12 @@ const tutorials = [
 const titleCased = () => {
   return tutorials
 }
+//
+/*Implement a map() function from scratch*/
+//
+
+
+function titleCased();
+  const names = members.map((title) => title.name);
+    return names
+}
